@@ -1,0 +1,13 @@
+body{
+    background-color: #edffec;
+}
+hr{
+    background-color: black;
+    width: 1200px;
+    margin-top: 20px;
+    height: 0.5px;
+}
+footer{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
